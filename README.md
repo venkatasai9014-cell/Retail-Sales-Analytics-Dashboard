@@ -17,7 +17,6 @@ The project includes:
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 - SQL
 - Power BI
 
